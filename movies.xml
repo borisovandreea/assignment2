@@ -1,0 +1,30 @@
+<movies>
+    <movie>
+        <movieTitle>Inception</movieTitle>
+        <profit>825532764</profit>
+        <movieGenre>Sci-Fi</movieGenre>
+        <releaseDate>2010-07-16</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+    <movie>
+        <movieTitle>Interstellar</movieTitle>
+        <profit>677471339</profit>
+        <movieGenre>Sci-Fi</movieGenre>
+        <releaseDate>2014-11-07</releaseDate>
+        <platform>HBO Max</platform>
+    </movie>
+    <movie>
+        <movieTitle>The Dark Knight</movieTitle>
+        <profit>1004558444</profit>
+        <movieGenre>Action</movieGenre>
+        <releaseDate>2008-07-18</releaseDate>
+        <platform>Prime Video</platform>
+    </movie>
+    <movie>
+        <movieTitle>Dunkirk</movieTitle>
+        <profit>527016307</profit>
+        <movieGenre>War</movieGenre>
+        <releaseDate>2017-07-21</releaseDate>
+        <platform>Apple TV</platform>
+    </movie>
+</movies>
